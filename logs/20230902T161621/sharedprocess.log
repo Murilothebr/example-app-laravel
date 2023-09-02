@@ -1,0 +1,3 @@
+[2023-09-02 16:16:24.068] [sharedprocess] [info] Starting worker process with pid 99308 (type: fileWatcher, window: 1).
+[2023-09-02 16:16:30.407] [sharedprocess] [info] Starting worker process with pid 99452 (type: fileWatcher, window: 3).
+[2023-09-02 16:16:32.220] [sharedprocess] [info] Worker process with pid 99452 terminated normally (type: fileWatcher, window: 3).

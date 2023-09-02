@@ -1,0 +1,4 @@
+[2023-09-02 16:16:28.707] [exthost] [info] Extension host with pid 99439 started
+[2023-09-02 16:16:28.707] [exthost] [info] Skipping acquiring lock for /home/dev/Repos/example-app/User/workspaceStorage/3119518cf24809548e1ad4df86217716.
+[2023-09-02 16:16:32.229] [exthost] [info] Extension host terminating: renderer closed the socket
+[2023-09-02 16:16:32.231] [exthost] [info] Extension host with pid 99439 exiting with code 0

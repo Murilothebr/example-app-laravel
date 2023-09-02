@@ -1,0 +1,2 @@
+[2023-09-02 16:16:11.663] [renderer1] [error] Cannot read properties of undefined (reading 'installAndRestartMessage'): TypeError: Cannot read properties of undefined (reading 'installAndRestartMessage')
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1976:59163

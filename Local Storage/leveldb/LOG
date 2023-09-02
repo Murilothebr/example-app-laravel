@@ -1,0 +1,3 @@
+2023/09/02-16:16:21.326 18364 Reusing MANIFEST /home/dev/Repos/example-app/Local Storage/leveldb/MANIFEST-000001
+2023/09/02-16:16:21.326 18364 Recovering log #3
+2023/09/02-16:16:21.326 18364 Reusing old log /home/dev/Repos/example-app/Local Storage/leveldb/000003.log 
